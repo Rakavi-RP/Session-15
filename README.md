@@ -46,15 +46,16 @@ python train.py
 ```
 
 ## Training Logs
-The training logs can be found in `logs.txt`. Below are some key entries from the logs:
+Training for 12,000 steps (Step 0 to Step 12000)
+The training logs can be found in [Training Logs](logs.txt). Below are some key entries from the logs:
 
 Step 11999/12001 | Loss: 3.1403
 Step 12000/12001 | Loss: 3.7546
 
-=== Generating sample at step 12000 ===
+ Generating sample at step 12000 
 Prompt: Solar system is a
 Generated: Solar system is a system system system system system system system system system system system system system system system system system system system system system system system system system system system system system system
-==================================================
+
 Step 12001/12001 | Loss: 3.7798
 
 Training complete!
